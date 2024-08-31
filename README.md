@@ -7,3 +7,5 @@ A streamlit web app which can tell with which bollywood celebrity you face resem
 !pip install keras==2.4.3
 !pip install keras-vggface==0.6
 !pip install keras_applications==1.0.8
+!pip install scikit-learn
+!pip install tqdm
